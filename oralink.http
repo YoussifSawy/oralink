@@ -1,0 +1,6 @@
+@oralink_HostAddress = http://localhost:5217
+
+GET {{oralink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
